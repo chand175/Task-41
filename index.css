@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.normal{
+    padding: 15px;
+    background-color: rgb(167, 197, 120);
+    text-align: center;
+    margin: 4px 2px;
+    font-size: 16px;
+    color: antiquewhite;
+    border-radius: 10px;
+}
+
+.gradient{
+    padding: 15px;
+  
+    background:linear-gradient(135deg, #ff416c, #2bff7c);
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+
+
+
+
